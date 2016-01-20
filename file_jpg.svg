@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="365.6px" height="479.6px" viewBox="0 0 365.6 479.6" enable-background="new 0 0 365.6 479.6" xml:space="preserve">
+<path opacity="0.4" fill="#999999" d="M0,6.3h156.7c0,0,37.3-0.7,62,22.7s106.7,102,106.7,102s34,24.7,34,80s0,268.7,0,268.7H0V6.3z"/>
+<path fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.5" d="M6,0.3h156.7c0,0,37.3-0.7,62,22.7s106.7,102,106.7,102s34,24.7,34,80s0,268.7,0,268.7H6V0.3z"/>
+<path fill="#CCCCCC" d="M218,17.3c0,0,26.9,16.8,18.7,92.2c0,0,70.5-9.8,102.3,22.4L218,17.3z"/>
+<polygon fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.5" points="86.9,114.5 299.7,115 299.9,286.3 85,286.5 "/>
+<polygon fill="#CCC0A9" points="94.4,120.6 292.2,121 292.4,280.3 92.6,280.5 "/>
+<polygon fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.5" points="54.3,160.9 264.3,126.9 292.3,295.9 80.3,330.9 "/>
+<polygon fill="#97C1FD" points="62.7,165.7 258,134.1 284,291.2 86.8,323.8 "/>
+<rect x="97.3" y="394.9" fill="none" width="183.1" height="59"/>
+<text transform="matrix(1 0 0 1 97.3335 444.5288)" font-family="'Helvetica'" font-size="69">JPEG</text>
+</svg>

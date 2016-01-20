@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="167.667px" height="240.333px" viewBox="0 0 167.667 240.333" enable-background="new 0 167.667 240.333" xml:space="preserve">
+<ellipse id="destination" fill="#FFFFFF" cx="83.833" cy="226.167" rx="83.833" ry="14.167"/>
+<path id="folder" fill="#8383FF" d="M7.351,114.432c0,0,0.957-9.247,7.334-9.247c6.378,0,35.712,0,35.712,0s3.188,0.638,5.102,3.188c1.914,2.551,4.145,6.058,4.145,6.058s0.639,2.551,6.379,2.551c5.738,0,84.815,0,84.815,0s7.652,0.319,7.652,9.885c0,9.566,0,92.469,0,92.469s0.957,4.465-5.102,4.465c-6.058,0-140.298,0-140.298,0s-5.739 0.956-5.739-3.826C7.351,215.192,7.351,114.432,7.351,114.432z"/>
+<ellipse id="source" fill="#FFFFFF" cx="83.5" cy="7.833" rx="34.167" ry="7.833"/>
+<linearGradient id="g_beam" gradientUnits="userSpaceOnUse" x1="0" y1="120.1855" x2="167.667" y2="120.1855">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+	<stop  offset="0.45" style="stop-color:#FEFEFE;stop-opacity:0.5"/>
+	<stop  offset="0.55" style="stop-color:#FCFCFC;stop-opacity:0.5"/>
+	<stop  offset="1" style="stop-color:#FAFAFA;stop-opacity:0.2"/>
+</linearGradient>
+<path id="beam" fill="url(#g_beam)" d="M42,37.333l7.334-29.499c0,0,35.666-16.499,68.333,0l50,218.333c0,0-76,30.834-167.667,0
+	L42,37.333z"/>
+</svg>

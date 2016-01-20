@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>GruntTool</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+</head>
+<!--
+GruntTool is a front-end tool by Adam Guttentag to help front-end developers learn and use Grunt.
+Grunt and its plugins are owned by their respective authors, and have no affiliation with this tool.
+-->
+<div class="flexContainer">
+	<div id="logoTitle">GruntTool</div>
+	<div class="module" id="moduleContainer">
+		<div class="moduleTitle">
+			<img src="compress_js.svg" id="plugOverlay">
+		</div>
+		<div class="moduleTabs">
+			<span id="moduleTab0" class="selected" onmouseover="octopus.descriptorChanger(0)" onmouseout="octopus.descriptorChanger(octopus.currentModule)" onclick="octopus.moduleChanger(0)">Uglify</span>
+			<span id="moduleTab1" class="unselected" onmouseover="octopus.descriptorChanger(1)" onmouseout="octopus.descriptorChanger(octopus.currentModule)" onclick="octopus.moduleChanger(1)">Resize-Crop</span>
+			<span id="moduleTab2" class="unselected" onmouseover="octopus.descriptorChanger(2)" onmouseout="octopus.descriptorChanger(octopus.currentModule)" onclick="octopus.moduleChanger(2)">Imagemin</span>
+			<span id="moduleTab3" class="unselected" onmouseover="octopus.descriptorChanger(3)" onmouseout="octopus.descriptorChanger(octopus.currentModule)" onclick="octopus.moduleChanger(3)">Minify-HTML</span>
+			<span id="moduleTab4" class="unselected" onmouseover="octopus.descriptorChanger(4)" onmouseout="octopus.descriptorChanger(octopus.currentModule)" onclick="octopus.moduleChanger(4)">CSSmin</span>
+			<span id="moduleTab5" class="unselected" onmouseover="octopus.descriptorChanger(5)" onmouseout="octopus.descriptorChanger(octopus.currentModule)" onclick="octopus.moduleChanger(5)">Watch</span>
+			<img src="help.svg" class="modalButton" onclick="help.show()">
+			<img src="gear.svg" class="modalButton" onclick="prefs.show()">
+			<br>
+			<span id="moduleDescription">Minifies your JavaScript files</span>
+		</div>
+	</div>
+</div>
+<image id="logo" src="grunttool.svg">
+<div id="prefs" class="module">
+	<div class="prefsHed">
+		<div>Settings</div><div class="close" onclick="prefs.hide()">X</div>
+	</div>
+	<p>
+		<h3>Color Scheme</h3>
+		<button onclick="prefs.color('linear-gradient(30deg, #463014, #FBA919, #FBA919, #463014)','#463014')">Dark</button> Gradient page background, orange text on a brown background (default)<br>
+		<button onclick="prefs.color('#fff','#999')">Light</button> Solid white page background, black text on a gray background. May be easier to read and more performant.<br>
+	</p>
+	<p>
+		<h3>Folder Names</h3>
+		Allows you to autofill the names of your source and build folders so you don't have to type them for each plugin.<br>
+		Default Source Folder Name: <input id="prefSourceName" placeholder="source" onchange="prefs.set('sourceName', this.value)"><br>
+		Default Build Folder Name: <input id="prefBuildName" placeholder="build" onchange="prefs.set('buildName', this.value)">
+	</p>
+</div>
+<div id="prefsBackground" onclick="prefs.hide(),help.hide()">
+</div>
+<div id="help">
+	<div class="prefsHed">
+		<div>Help</div><div class="close" onclick="help.hide()">X</div>
+	</div>
+</div>
+
+
+<script src="js/main.js"></script>

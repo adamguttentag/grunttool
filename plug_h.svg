@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="215.25px" height="73.5px" viewBox="-70.875 70.875 215.25 73.5" enable-background="new -70.875 70.875 215.25 73.5"
+	 xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1.8755" y1="670.375" x2="1.8755" y2="743.875" gradientTransform="matrix(1 0 0 -1 37 814.75)">
+	<stop  offset="0" style="stop-color:#202022"/>
+	<stop  offset="0.1" style="stop-color:#3F3F41"/>
+	<stop  offset="0.92" style="stop-color:#404042"/>
+	<stop  offset="1" style="stop-color:#2A2A2D"/>
+</linearGradient>
+<rect x="-4.625" y="70.875" fill="url(#SVGID_1_)" width="87" height="73.5"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-54.125" y1="694.875" x2="-54.125" y2="719.375" gradientTransform="matrix(1 0 0 -1 37 814.75)">
+	<stop  offset="0" style="stop-color:#2C2C2E"/>
+	<stop  offset="0.36" style="stop-color:#3E3E40"/>
+	<stop  offset="0.65" style="stop-color:#404042"/>
+	<stop  offset="1" style="stop-color:#2C2C2E"/>
+</linearGradient>
+<rect x="-29.625" y="95.375" fill="url(#SVGID_2_)" width="25" height="24.5"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-87.25" y1="698.375" x2="-87.25" y2="714.875" gradientTransform="matrix(1 0 0 -1 37 814.75)">
+	<stop  offset="0" style="stop-color:#0A0A0D"/>
+	<stop  offset="0.42" style="stop-color:#161618"/>
+	<stop  offset="0.66" style="stop-color:#4E4E50"/>
+	<stop  offset="1" style="stop-color:#565659"/>
+</linearGradient>
+<rect x="-70.875" y="99.875" fill="url(#SVGID_3_)" width="41.25" height="16.5"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="76.376" y1="676.375" x2="76.376" y2="737.375" gradientTransform="matrix(1 0 0 -1 37 814.75)">
+	<stop  offset="0" style="stop-color:#E4E4E4"/>
+	<stop  offset="0.03" style="stop-color:#A4A4A5"/>
+	<stop  offset="0.05" style="stop-color:#CCCCCC"/>
+	<stop  offset="0.08" style="stop-color:#B9B9BA"/>
+	<stop  offset="0.94" style="stop-color:#B9B9BA"/>
+	<stop  offset="0.95" style="stop-color:#C6C6C6"/>
+	<stop  offset="1" style="stop-color:#BABABC"/>
+</linearGradient>
+<rect x="82.375" y="77.375" fill="url(#SVGID_4_)" width="62" height="61"/>
+<rect x="107.375" y="85.875" fill="#231F20" width="9.75" height="12.75"/>
+<rect x="107.375" y="115.875" fill="#231F20" width="9.75" height="12.75"/>
+</svg>

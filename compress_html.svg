@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="167.667px" height="240.333px" viewBox="0 0 167.667 240.333" enable-background="new 0 167.667 240.333" xml:space="preserve">
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M10,0c0,0,38.667,62.076,38.667,122.667C48.667,182.307,10,240.48,10,240.48"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M20,0c0,0,34.334,61.519,34.334,122.001C54.334,181.754,20,240.48,20,240.48"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M30,0c0,0,29.667,62.191,29.667,123.001C59.667,182.415,30,240.48,30,240.48"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M40,0c0,0,25.334,63.628,25.334,124.001C65.334,183.866,40,240.48,40,240.48"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M50,0c0,0,20.667,62.299,20.667,123.001C70.667,182.528,50,240.48,50,240.48"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M60,0c0,0,16,62.076,16,122.667c0,59.64-16,117.812-16,117.812"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M70,0c0,0,10.667,61.966,10.667,122.667C80.667,182.195,70,240.48,70,240.48"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M80,0c0,0,4.333,58.198,4.333,117.334C84.333,178.407,80,240.48,80,240.48"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M161.334,0c0,0-38.667,62.076-38.667,122.667c0,59.64,38.667,117.812,38.667,117.812"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M151.334,0c0,0-34.334,61.519-34.334,122.001c0,59.753,34.334,118.479,34.334,118.479"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M141.334,0c0,0-29.667,62.191-29.667,123.001c0,59.414,29.667,117.479,29.667,117.479"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M131.334,0c0,0-25.334,63.628-25.334,124.001c0,59.865,25.334,116.479,25.334,116.479"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M121.334,0c0,0-20.667,62.299-20.667,123.001c0,59.527,20.667,117.479,20.667,117.479"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M111.334,0c0,0-16.001,62.076-16.001,122.667c0,59.64,16.001,117.812,16.001,117.812"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M101.334,0c0,0-10.667,61.966-10.667,122.667c0,59.527,10.667,117.812,10.667,117.812"/>
+	<path fill="none" stroke="#ffffff" stroke-miterlimit="10" d="M91.334,0c0,0-4.333,58.198-4.333,117.334c0,61.073,4.333,123.146,4.333,123.146"/>
+	<text transform="matrix(1 0 0 1 40 136)" fill="#FFFFFF" style="font: 700 60px helvetica;">&lt;/&gt;</text>
+</svg>
